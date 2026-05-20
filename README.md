@@ -1,4 +1,3 @@
-# build-a-recipe-page.html
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -33,3 +32,4 @@
      </body>   
         <img src="https://cdn.freecodecamp.org/curriculum/labs/recipe.jpg" alt="Simple Vanilla Cake">
 </html>
+  
