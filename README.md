@@ -1,1 +1,35 @@
 # build-a-recipe-page.html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8"/>
+    <title>Simple Vanilla Cake Recipe</title>
+  </head>
+    <body>
+
+      <h1>Simple vanilla cake</h1>
+      
+      <p>Simple Vanilla cake is a soft light and delicious baked dessert made from basic ingredients like flour,sugar,butter,vanilla flavour and eggs.it is one of the most common and easiest cakes to prepare making it suitable for beginners and students learning baking. Vernilla cake is very popular for its smooth texture,sweet aroma and versatility, it can be enjoyed on its own or decorated with cream,icing, or fruit for special occasions such as Birthdays,Weddings and other celecbrations.</p>
+      <h2>Ingredients</h2>
+      <ul>
+        <li>2 cups of flour</li>
+        <li>1 cup of sugar</li>
+        <li>1 cup of butter</li>
+        <li>4 eggs</li>
+        <li>1 Tablespoon of baking powder</li>
+        <li>1 Teaspoon of vanilla flavour</li>
+        <li>&frac12; cup of milk</li>
+      </ul>  
+      <h2>Instructions</h2>
+      <ol>
+        <li>Preheat the oven to 180°C.</li>
+        <li>cream the butter and add the sugar together until light and fluffy.</li>
+        <li>Add the eggs one at a time and mix well.</li>
+        <li>Mix the flour and baking powder, then add to the mixture.</li>
+        <li>Add milk and vanilla flavour and mix well</li>
+        <li>Pour the batter into a greased baking pan.</li>
+        <li> Bake for 30-40 minutes until golden brown.</li>
+        </ol>
+     </body>   
+        <img src="https://cdn.freecodecamp.org/curriculum/labs/recipe.jpg" alt="Simple Vanilla Cake">
+</html>
